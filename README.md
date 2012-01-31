@@ -22,13 +22,16 @@
 *   Green
 *   Blue
 
+
 +   Red
 +   Green
 +   Blue
 
+
 -   Red
 -   Green
 -   Blue
+
 
 1.	Red
 2.	Green
